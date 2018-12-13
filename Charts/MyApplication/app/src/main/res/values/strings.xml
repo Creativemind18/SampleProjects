@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Home Automation</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="telugu" translatable="false">te</string>
+    <string name="hindi" translatable="false">hi</string>
+    <string name="english" translatable="false">en</string>
+    <string-array name="languages">
+        <item> English </item>
+        <item> Telugu </item>
+    </string-array>
+</resources>

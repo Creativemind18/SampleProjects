@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#416477</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="darkPrimary">@android:color/holo_blue_light</color>
+    <color name="darkPrimaryDark">#97935454</color>
+    <color name="darkAccent">#4b6e9c68</color>
+
+    <color name="sblayoutshadow">#b1b3b4</color>
+    <color name="sbwhite">#FFFFFF</color>
+    <color name="signupButtonColor">@android:color/holo_blue_dark</color>
+
+
+        <!--<color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>-->
+        <color name="Darkyellow">#FBAA25</color>
+
+
+        <color name="gray">#868383</color>
+        <color name="black">#000000</color>
+
+        <color name="black_text">#333333</color>
+        <color name="gambit_primary">#3DCD58</color>
+        <color name="gambit_primary_dark">#32Ad3C</color>
+        <color name="grey_timestamp">#9FA0A4</color>
+        <color name="color_divider_grey">#ededed</color>
+        <color name="grey_lines">#E6E6E6</color>
+        <color name="sky_blue_curve">#33b5e5</color>
+        <color name="transparent">#00000000</color>
+        <color name="gray_alarm">#9fa0a4</color>
+        <!-- Text color for 1st page -->
+        <color name="auth_intro_page_1_text">@android:color/black</color>
+        <!-- Color of swipe to learn text in 1st page -->
+        <color name="auth_intro_page_1_desc">@android:color/darker_gray</color>
+        <!-- Color of description text in 1st page -->
+        <color name="auth_intro_page_desc">@android:color/black</color>
+        <color name="grey_radio">#9FA0A4</color>
+        <color name="light_grey">#8E8F93</color>
+        <color name="grey_d">#4a4a4a</color>
+        <color name="hyperlink">#42b4e6</color>
+        <color name="color_background">#1e88e5</color>
+        <!-- Color : divider RecycleList -->
+        <color name="color_divider">#eaeaea</color>
+        <color name="background_activity">#f7f7f7</color>
+        <color name="dark_grey_line">#ffcbcbcb</color>
+        <color name="blue">#42b4e6</color>
+        <color name="dark_red">#d0011b</color>
+
+
+        <color name="colorone">#e71f23</color>
+        <color name="colortwo">#146e3a</color>
+        <color name="imagetwo">#218966</color>
+        <color name="imagethree">#e54a4d</color>
+        <color name="imagethreee">#cd2f4e</color>
+        <color name="imagefour">#06619e</color>
+
+
+
+        <color name="textColorPrimary">#FFFFFF</color>
+        <color name="windowBackground">#FFFFFF</color>
+        <color name="navigationBarColor">#000000</color>
+
+
+        <color name="white">#FFFFFF</color>
+        <color name ="logocolorOne">#88bd2f</color>
+        <color name="one">#ca6655</color>
+        <color name="two">#FFD7DE24</color>
+        <color name="three">#FFB4B692</color>
+        <color name="four">#FF94E1DC</color>
+        <color name="five">#FFEDADE6</color>
+
+
+
+        <color name="colorBlack">#000000</color>
+        <color name="AppTitleBarTitleTextColor">#ffffff</color>
+        <color name="Anthracite_grey">#383737</color>
+        <color name="Dark_Grey">#626469</color>
+        <color name="Spruce_Green">#009530</color>
+        <color name="SE_Life_Green">#3DCD58</color>
+        <color name="SE_Life_Green_opacity">#803DCD58</color>
+        <color name="SE_Life_Green1">#0F9647</color>
+        <color name="SE_SkyBlue">#035994</color>
+
+        <color name="bg_green">#3DCD58</color>
+        <color name="dark_grey">#A0A0A0</color>
+        <color name="blue_light">#03a9f4</color>
+        <color name="green_light">#8bc34a</color>
+        <color name="orange_light">#fb8c00</color>
+        <color name="light_red">#f44336</color>
+        <color name="misc_colorone">#C71585</color>
+        <color name="misc_colortwo">#660033</color>
+        <color name="misc_colorthr">#202020</color>
+
+        <color name="Super_Light_Grey">#E6E6E6</color>
+        <color name="Ultra_Light_Grey_1">#EDEDED</color>
+        <color name="AppWhite">#FFFFFFFF</color>
+        <color name="Medium_Grey">#9fa0a4</color>
+        <color name="Medium_Green">#32ad3c</color>
+        <color name="Dark_Green">#007626</color>
+        <color name="colorRed">#DC0A0A</color>
+        <color name="Dark_Sky_Blue">#0087CD</color>
+        <color name="Medium_Blue">#219BFD</color>
+        <color name="Sky_Blue">#42B4E6</color>
+        <color name="Light_Grey">#CBCBCB</color>
+        <color name="green_custom">#4CAB0B</color>
+
+        <color name="light_grey1">#D2D2D2</color>
+
+</resources>
